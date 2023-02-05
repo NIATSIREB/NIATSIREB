@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Antonio.
 - 👀 I’m interested in the amazing world of technology and engineering.
 - 🌱 AI, and robot programming.
-- 💞️ I’m looking to collaborate on practly any project related to web dev or AI.
+- 💞️ I’m looking to collaborate on practly any project related to mobile or AI.
 - 📫 How to reach me?, you can mail me to alumnoberistain@gmail.com
 
 <!---
